@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\proavan2\\proyecto_\\proyecto-grupo2",
+  "node.version": "v18.16.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\frontend",
+  "connect.javaSourceFolder": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\src\\main\\java",
+  "javaResourceFolder": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

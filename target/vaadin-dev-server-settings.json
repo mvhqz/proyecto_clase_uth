@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/proavan2/proyecto_/proyecto-grupo2/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/proavan2/proyecto_/proyecto-grupo2/frontend/generated/jar-resources",
+  "staticOutput": "C:/proavan2/proyecto_/proyecto-grupo2/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/proavan2/proyecto_/proyecto-grupo2/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/proavan2/proyecto_/proyecto-grupo2/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/proavan2/proyecto_/proyecto-grupo2/frontend/generated/jar-resources",
+  "themeName": "proyectogrupo2",
+  "clientServiceWorkerSource": "C:\\proavan2\\proyecto_\\proyecto-grupo2\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

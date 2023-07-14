@@ -1,0 +1,9 @@
+com\example\application\views\MainLayout.class
+com\example\application\views\productos\ProductosView.class
+com\example\application\views\facturas\FacturasView.class
+com\example\application\views\facturas\FacturasView$Filters.class
+com\example\application\data\entity\AbstractEntity.class
+com\example\application\Application.class
+com\example\application\data\entity\Producto.class
+com\example\application\views\clientes\ClientesView.class
+com\example\application\data\entity\Clientes.class
